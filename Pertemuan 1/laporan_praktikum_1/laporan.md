@@ -10,8 +10,11 @@
 
 ## C. Penjelasan Program Percobaan 
 Pada program percobaan, terdapat 2 objek yaitu objek sepeda gunung dan sepeda, yang mana objek sepeda mewarisi objek sepeda gunung (inheritance). Terdapat 3 class yaitu class Sepeda untuk objek sepeda, class SepedaGunung untuk objek sepeda gunung, dan class SepedaDemo untuk main method yang berfungsi untuk menjalankan program dan menginstansiasikan objek untuk setiap class.
+<br>
 Class Sepeda memiliki 3 atribut yaitu merek, kecepatan, dan gear untuk menyimpan masing-masing datanya. Terdapat 5 method diantaranya yaitu menentukan merek sepeda, mengganti gear, menambah kecepatan, mengerem, dan mencetak status/data sepeda.
+<br>
 Class sepeda gunung menggunakan fitur inheritance karena di-extends/diwariskan dari class Sepeda. Class ini ditambah dengan method menentukan tipe suspense dan cetak status untuk menampilkan tipe suspensinya.
+<br>
 Pada class SepedaDemo terdapat 3 buah instansiasi objek untuk memanggil method-method di dalam class Sepeda dan SepedaGunung sehingga output nya akan menampilkan 3 macam data sepeda yang berbeda.
 
 ## D. Screenshoot Output Tugas Praktikum 
@@ -27,6 +30,7 @@ Terdapat 4 objek yaitu kasur spring bad, kasur busa, mesin cuci, dan lemari baju
 <img src="Kasur.jpg">
 
 Atribut : merek, panjang, lebar, dan luas
+<br>
 Method : serMerek untuk menentukan merek, tambahPanjang, kurangiPanjang, tambahLebar, kurangiLebar, luasKasur untuk menghitung luas kasur, cetakStatus untuk menampilkan semua data.
 
 2. KasurSpringBad
@@ -34,7 +38,9 @@ Method : serMerek untuk menentukan merek, tambahPanjang, kurangiPanjang, tambahL
 <img src="Kasur spring bad.jpg">
 
 KasurSpringBad diwarisi oleh objek kasur sehingga atribut dan methodnya sama. Oleh karena itu menggunakan fitur inheritance untuk meng-extendsnya agar tidak menuliskan ulang code program. Berikut tambahan atribut dan method pada class KasurSpringBad :
+<br>
 Atribut : jenisPegas, padding
+<br>
 Method : serJenisPegas untuk menentukan pegas yang digunakan, setPadding untuk menentukan jenis padding yang digunakan, cetakStatus untuk menampilkan data tambahan tersebut.
 
 3. KasurBusa
@@ -42,7 +48,9 @@ Method : serJenisPegas untuk menentukan pegas yang digunakan, setPadding untuk m
 <img src="Kasur busa.jpg">
 
 KasurBusa kedudukannya sama sperti KasurSpringBad yaitu sebagai objek yang diwarisi oleh kasur. Berikut tambahan atribut dan method pada objek KasurBusa :
+<br>
 Atribut : tingkatKelembutan, kepadatanBusa
+<br>
 Method : setTingkatKelembutan untuk mengetahui tingkat kelebutannya, setKepadatan untuk mengetahui kepadatan busa yang digunakan, cetakStatus untuk menampilkan data tambahan tersebut.
 
 4. MesinCuci
@@ -50,6 +58,7 @@ Method : setTingkatKelembutan untuk mengetahui tingkat kelebutannya, setKepadata
 <img src="Mesin cuci.jpg">
 
 Atribut : merek, kapasitas, kecepatan
+<br>
 Method : menetukan merek, menambah kapasitas, mengurangi kapasitas, menambah kecepatan, mengurangi kecepatan, cetakStatus untuk menampilkan semua data.
 
 5. LemariBaju
@@ -57,6 +66,7 @@ Method : menetukan merek, menambah kapasitas, mengurangi kapasitas, menambah kec
 <img src="Lemari baju.jpg">
 
 Atribut : merek, kapasitas, dan kecepatan
+<br>
 Method : serMerek untuk menentukan mereknya, tambahKapasitas, kurangiKapasitas, tambahKecepatan, kurangiKecepatan, cetakStatus untuk menampilkan semua data.
 
 6. TugasDemo
