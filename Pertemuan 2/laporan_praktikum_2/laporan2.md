@@ -2,11 +2,11 @@
 
 ## 1. Class Diagram Studi Kasus Peminjaman 
 
-<img src="1.jpg">
+<img src="gambar1.jpg">
 
 ## 2. Screenshoot Output Program Peminjaman
 
-<img src="2.jpg">
+<img src="gambar2.jpg">
 
 Atribut : id, namaMember, namaGame, harga, lamaSewa, hargaBayar
 <br>
@@ -14,7 +14,7 @@ Method : hitungHarga dan tampilData.
 
 ## 3. Screenshoot Output Program Lingkaran
 
-<img src="3.jpg">
+<img src="gambar3.jpg">
 
 Atribut : phi, r, luas, keliling
 <br>
@@ -22,7 +22,7 @@ Method : hitungLuas dan hitungKeliling
 
 ## 4. Screenshoot Output Program Barang
 
-<img src="4.jpg">
+<img src="gambar4.jpg">
 
 Atribut : kode, namaBarang, hargaDasar, diskon, hargaJual
 <br>
