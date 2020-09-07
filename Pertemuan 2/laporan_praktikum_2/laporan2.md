@@ -2,11 +2,11 @@
 
 ## 1. Class Diagram Studi Kasus Peminjaman 
 
-<img src="gambar1.jpg">
+<img src="gambar1.JPG">
 
 ## 2. Screenshoot Output Program Peminjaman
 
-<img src="gambar2.jpg">
+<img src="gambar2.JPG">
 
 Atribut : id, namaMember, namaGame, harga, lamaSewa, hargaBayar
 <br>
@@ -16,7 +16,7 @@ Pada class TestPeminjaman, terdapat instansiasi objek gm untuk memanggil atribut
 
 ## 3. Screenshoot Output Program Lingkaran
 
-<img src="gambar3.jpg">
+<img src="gambar3.JPG">
 
 Atribut : phi, r, luas, keliling
 <br>
@@ -26,7 +26,7 @@ Pada class Lingkaran, semua atribut yang digunakan untuk menghitung luas dan kel
 
 ## 4. Screenshoot Output Program Barang
 
-<img src="gambar4.jpg">
+<img src="gambar4.JPG">
 
 Atribut : kode, namaBarang, hargaDasar, diskon, hargaJual
 <br>
