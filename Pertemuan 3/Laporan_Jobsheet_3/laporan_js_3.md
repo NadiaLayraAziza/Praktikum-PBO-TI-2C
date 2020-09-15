@@ -24,13 +24,13 @@
 ## E. TUGAS (Untuk source code tugas ada di folder TugasPertemuan3)
 
 1. Cobalah program dibawah ini dan tuliskan	hasil outputnya
-
+<br>
 Jawaban :
-
+<br>
 <img src="tugas1.JPG">
 
 2. Pada program	diatas,	pada class EncapTest kita mengeset age dengan nilai	35, namun pada saat	ditampilkan	ke layar nilainya 30, jelaskan mengapa.
-Jawaban : Karena dalam method setAge terdapat if yang apabila age yang dimasukkan melebihi 30 maka age di anggap 30.
+<br>Jawaban : Karena dalam method setAge terdapat if yang apabila age yang dimasukkan melebihi 30 maka age di anggap 30.
 <br>
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal	30 dan minimal 18.
 <br>
@@ -49,8 +49,7 @@ c. Output dari perubahan kode di atas
 <img src="tugas3c.JPG">
 
 4. Pada	sebuah sistem informasi	koperasi simpan	pinjam, terdapat class Anggota yang memiliki atribut antara	lain nomor KTP,	nama, limit	peminjaman,	dan	jumlah pinjaman. Anggota dapat meminjam	uang dengan	batas limit	peminjaman yang	ditentukan.	Anggota	juga dapat mengangsur pinjaman.	Ketika Anggota tersebut	mengangsur pinjaman, maka jumlah pinjaman akan berkurang sesuai	dengan nominal yang	diangsur. Buatlah class Anggota	tersebut, berikan atribut, method dan konstruktor sesuai dengan	kebutuhan. Uji dengan TestKoperasi berikut ini untuk memeriksa apakah class Anggota	yang anda buat telah sesuai	dengan yang	diharapkan.
-
-Jawaban : 
+<br>Jawaban : 
 <br>
 a. Berikut source code pada class Anggota
 
@@ -62,8 +61,7 @@ b. Berikut Hasil Outputnya (sudah sesuai dengan yang diminta pada soal)
 <img src="tugas4.JPG">
 
 5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini.	Jika mengangsur	kurang dari itu, maka muncul peringatan	“Maaf, angsuran	harus 10% dari jumlah pinjaman”.
-
-Jawaban :
+<br>Jawaban :
 <br>
 a. Letak modifikasi pada class Anggota
 
@@ -78,8 +76,7 @@ c. Berikut Output setelah dimodifikasi
 <img src="tugas4c.JPG">
 
 6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran	dapat menerima input dari console.
-
-Jawaban :
+<br>Jawaban :
 <br>
 a. Berikut bentuk modifikasinya 
 
