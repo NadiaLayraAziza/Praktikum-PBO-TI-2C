@@ -1,1 +1,0 @@
-<img src="Mamalia.JPG">
