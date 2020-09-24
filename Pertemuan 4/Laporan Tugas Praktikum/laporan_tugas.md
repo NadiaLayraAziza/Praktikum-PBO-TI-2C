@@ -10,6 +10,6 @@ Studi kasus yang saya gunakan adalah tentang Buku, yang mana setiap buku pasti m
 
 ## C. HASIL OUTPUT PROGRAM 
 
-<img src="output_tugas.jpg">
+<img src="output_tugas.JPG">
 
 Jalannya program dimulai dari mendeklarasi dan menginstansiasikan setiap objek. Di dalam class Buku, terdapat method untuk memanggil method info dari class Penulis dan Penerbit. Sedangkan di dalam class Novel dan Majalah terdapat method untuk memanggil method info dari class Buku yang nantinya untuk ditampilkan pada output ketika memanggil method info dari class Novel dan Majalah. Sehingga output keseluruhan dari program mewakili masing-masing method info dari setiap class. 
