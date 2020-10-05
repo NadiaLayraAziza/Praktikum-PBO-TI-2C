@@ -2,14 +2,14 @@
 
 ## A. JAWABAN PERTANYAAN PERCOBAAN 1
 1. Pada percobaan 1 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error! <br>Jawaban : Di classB ditambahi extends classA kemudian untuk pemanggilan atribut x dan y ditambahi super.
-<img src="p1.jpg">
+<img src="p1.JPG">
 
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error! <br>Jawaban : Terjadi eror karena ClassB belum di extends ke Class induknya yaitu classA dan dalam pemanggilan atribut dari class induk belum ditambahi super.
 
 ## B. JAWABAN PERTANYAAN PERCOBAAN 2
 1. Pada percobaan 2 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error! Di classA ditambahi method getX dan getY, kemudian di classB dalam pemanggilan atribut x dan y menggunakan super.getX dan super.getY
 <img src="p2a.JPG">
-<img src="p2b.jpg">
+<img src="p2b.JPG">
 
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error! <br>Jawaban : Terjadi eror karena ClassB belum di extends ke Class induknya yaitu classA dan dalam pemanggilan atribut x dan y tidak bisa karena memiliki modifier private, solusinya yaitu membuat method get untuk atribut x dan y di ClassA kemudian untuk pemanggilannya di ClassB menggunakan super.namaMethodGet x dan y
 
