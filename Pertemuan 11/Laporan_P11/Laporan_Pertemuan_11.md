@@ -24,7 +24,7 @@ Berikut output yang dihasilkan setelah kode program diperbaiki, hasilnya sudah s
 
 3. Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude. <br>Jawaban : Pada class Sarjana ditambahkan interface baru IBerprestasi dibelakang kata kunci implements. Lalu dengan cara yang sama seperti sebelumnya, kliklah ikon lampu peringatan untuk meng-generate semua method abstract dari interface IBerprestasi pada class Sarjana. Lakukan langkahnya sama seperti class PascaSarjana. <br>Berikut gambar modifikasinya : <br><img src = "pertanyaan3_p2.JPG">
 ## E. UML Class Diagram Tugas 
-Berikut hasil UML dari deskripsi permasalahan pada tugas <br><br><img src = "interface.JPG">
+Berikut hasil UML dari deskripsi permasalahan pada tugas <br><br><img src = "interface.jpg">
 ## F. Laporan Tugas 
 Berikut langkah-langkah dalam mengimplementasikan class diagram tersebut menjadi sistem pada java : <br>
 1. Membuat class interface dengan nama IKarnivora. Kemudian tambahkan method public abstract void displayMakan(); di dalam class tersebut. Class ini nantinya yang akan digunakan sebagai implements untuk class Singa dan Gorilla. <br>Berikut kode programnya : <br><img src = "t1.JPG">
